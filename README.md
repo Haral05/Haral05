@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Haral05/Haral05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Harlet! 👋
+[![Email](https://img.shields.io/badge/harletreyes54@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail)](mailto:harletreyes54@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/harlet-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&label=LinkedIn)](https://linkedin.com/in/harlet)
+[![GitHub](https://img.shields.io/badge/haral05-181717?style=for-the-badge&logo=GitHub&logoColor=white&label=GitHub)](https://github.com/harlet)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 
+- Computer Science student passionate about software development.
+- Visit my [personal website](https://tuportfolio.com)
+- Techstack: `.ng`, `.ts`,`.js`, `.html`, `.css`, `.java`, `.sql`
+
+### GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=haral05&theme=react&border_radius=5)](https://git.io/streak-stats)
