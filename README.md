@@ -5,6 +5,7 @@
 
 ### About Me 
 - I'm from ![Location](https://img.shields.io/badge/Ubicación-Cuba-blue?style=flat-square&logo=googlemaps)
+- 📍 Vivo en [🇨🇺 Cuba](https://www.google.com/maps/place/Cuba)
 - Computer Science student passionate about software development.
 - Visit my [personal website](https://tuportfolio.com)
 ### Techstack
