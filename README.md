@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/harletreyes-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harletreyesalfonso)
 
 ### About Me 
+- I'm from ![Location](https://img.shields.io/badge/Ubicación-Cuba-blue?style=flat-square&logo=googlemaps)
 - Computer Science student passionate about software development.
 - Visit my [personal website](https://tuportfolio.com)
 ### Techstack
