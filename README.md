@@ -5,7 +5,7 @@
 
 ### About Me 
 - Computer Science student passionate about software development.
-- Visit my [personal website](https://tuportfolio.com)
+- Visit my [personal website.](https://tuportfolio.com)
   
 ![Location](https://img.shields.io/badge/Location-Cuba-blue?style=flat-square&logo=googlemaps)
 ### Techstack
