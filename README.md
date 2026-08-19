@@ -4,10 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/harletreyes-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harletreyesalfonso)
 
 ### About Me 
-- I'm from ![Location](https://img.shields.io/badge/Ubicación-Cuba-blue?style=flat-square&logo=googlemaps)
-- 📍 Vivo en [🇨🇺 Cuba](https://www.google.com/maps/place/Cuba)
 - Computer Science student passionate about software development.
 - Visit my [personal website](https://tuportfolio.com)
+  ![Location](https://img.shields.io/badge/Location-Cuba-blue?style=flat-square&logo=googlemaps)
 ### Techstack
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
