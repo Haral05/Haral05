@@ -1,5 +1,5 @@
 # Hey, I'm Harlet! 👋
-[![Email](https://img.shields.io/badge/harletreyes54@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail)](mailto:harletreyes54@gmail.com)
+[![Email](https://img.shields.io/badge/harletreyesalfonso@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail)](mailto:harletreyesalfonso@gmail.com)
 [![GitHub](https://img.shields.io/badge/haral05-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/haral05)
 [![LinkedIn](https://img.shields.io/badge/harletreyes-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harletreyesalfonso)
 
