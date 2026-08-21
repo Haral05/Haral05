@@ -7,7 +7,7 @@
 - Computer Science student passionate about software development.
 - Visit my [personal website.](https://tuportfolio.com)
   
-_ ![Location](https://img.shields.io/badge/Location-Cuba-blue?style=flat-square&logo=googlemaps)
+- ![Location](https://img.shields.io/badge/Location-Cuba-blue?style=flat-square&logo=googlemaps)
 ### Techstack
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
