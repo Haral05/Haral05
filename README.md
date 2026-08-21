@@ -7,7 +7,7 @@
 - Computer Science student passionate about software development.
 - Visit my [personal website.](https://tuportfolio.com)
   
-![Location](https://img.shields.io/badge/Location-Cuba-blue?style=flat-square&logo=googlemaps)
+_ ![Location](https://img.shields.io/badge/Location-Cuba-blue?style=flat-square&logo=googlemaps)
 ### Techstack
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haral05&theme=react&border_radius=5)](https://git.io/streak-stats)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
