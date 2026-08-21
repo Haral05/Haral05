@@ -1,4 +1,3 @@
-![Uploading wp10407595-world-of-warcraft-4k-wallpapers.jpg…]()
 # Hey, I'm Harlet! 👋
 [![Email](https://img.shields.io/badge/harletreyesalfonso@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&label=Gmail)](mailto:harletreyesalfonso@gmail.com)
 [![GitHub](https://img.shields.io/badge/haral05-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/haral05)
@@ -24,5 +23,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haral05&theme=react&border_radius=5)](https://git.io/streak-stats)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
