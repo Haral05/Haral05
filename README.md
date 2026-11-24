@@ -20,7 +20,7 @@
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Haral&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Haral05&layout=compact&langs_count=4&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haral05&theme=react&border_radius=5)](https://git.io/streak-stats)
 
